@@ -1,0 +1,4 @@
+ #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2381433,CODECS="avc1.4D401F,avc1.640029,mp4a.40.2,N/A",RESOLUTION=1280x720,pixel format=yuv420p,Fame rate=N/A fps,Bitrate=N/A,CODECS="N/A",Sample rate=44100 Hz,Channels=2,Bitrate=N/A
+https://r3-sn-5fo-c37ed57.googleuservideo.com/doofootball_r1/trueepl5_480p/chunks.m3u8?nimblesessionid=4545840&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDIxIDI6MDA6MTYgQU0maGFzaF92YWx1ZT1Tc201YkNySStyOGlLemt3eTZZaEZnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjgmaWQ9NDcyMzE3 
